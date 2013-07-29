@@ -3,4 +3,7 @@ sandbox
 
 testing to use GitHub...
 Created on monday 29th July.
-日本語のテスト
+
+This sandbox is testing for github.
+
+Shirai Lab in Kanagawa Institute of Technology
